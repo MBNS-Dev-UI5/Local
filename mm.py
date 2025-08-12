@@ -4,7 +4,7 @@ from datetime import datetime
 
 # File paths
 TASKS_FILE = "tasks.json"
-DELETED_TASKS_FILE = "deleted_tasks.json"
+DELETED_TASKS_FILE = "deleted_tasks and main.json"
 
 def get_current_time():
     """Return the current time as a formatted string."""
